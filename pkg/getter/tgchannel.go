@@ -6,10 +6,10 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/Sansui233/proxypool/log"
+	"github.com/longsui48/sampool/log"
 
-	"github.com/Sansui233/proxypool/pkg/proxy"
-	"github.com/Sansui233/proxypool/pkg/tool"
+	"github.com/longsui48/sampool/pkg/proxy"
+	"github.com/longsui48/sampool/pkg/tool"
 	"github.com/gocolly/colly"
 )
 
